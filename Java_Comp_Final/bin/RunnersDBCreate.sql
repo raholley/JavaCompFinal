@@ -1,0 +1,23 @@
+CONNECT 'jdbc:derby:RunnersDB;create=true';
+
+
+CREATE TABLE RunnersStats
+(
+    RunnersName VARCHAR(20), 
+	RunnersSpeed DOUBLE, 
+	RestPercentage DOUBLE
+);
+
+INSERT INTO RunnersStats VALUES
+('Tortoise', 10, 0);   
+
+INSERT INTO RunnersStats VALUES
+('Hare', 100, 90);
+
+INSERT INTO RunnersStats VALUES
+('Dog', 50, 40);
+
+INSERT INTO RunnersStats VALUES
+('Cat', 30, 75);
+
+DISCONNECT;
