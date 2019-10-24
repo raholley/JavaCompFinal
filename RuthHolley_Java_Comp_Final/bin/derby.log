@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 21 03:03:53 PDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-016c-b3a1-fd4c-0000013ede05 
+on database directory /home/ruth/Final_project/RuthHolley_Java_Comp_Final/Resources/RunnersDB with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/ruth/Final_project/RuthHolley_Java_Comp_Final/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12
+user.dir=/home/ruth/Final_project/RuthHolley_Java_Comp_Final
+os.name=Linux
+os.arch=amd64
+os.version=4.8.0-53-generic
+derby.system.home=Resources
+Database Class Loader started - derby.database.classpath=''
