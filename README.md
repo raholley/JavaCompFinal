@@ -1,4 +1,4 @@
-# Java Comprehensive Final Project
+# This was the final project for my Java comprehensive class using Multi-threading
 
 ## Final Project: Marathon race runners
 
